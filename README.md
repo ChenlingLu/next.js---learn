@@ -1,2 +1,1 @@
-# next.js---learn
-These are some testing files about next.js
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
